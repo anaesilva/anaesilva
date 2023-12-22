@@ -4,8 +4,7 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anaesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana Eusébio da Silva github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasilva65&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaesilva&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaesilva&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anasilva65&theme=gotham)
@@ -33,7 +32,7 @@
 </div>
 
 
-### Tools:
+### Tools:https://github.com/
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -46,7 +45,13 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### Portfolio:
-![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<div> 
+ <a href="https://github.com/anasilva65" target="_blank"><img src="https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" target="_blank"></a>
+ </div>
+<div align="center">  
+   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasilva65&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
